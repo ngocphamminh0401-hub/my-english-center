@@ -1,4 +1,4 @@
-# Nha Khoa Pro — Hệ thống Quản lý Phòng khám Nha khoa
+# Hệ thống Quản lý Phòng khám Nha khoa
 
 Hệ thống quản lý thông tin bệnh viện (HIS) dành cho phòng khám nha khoa, xây dựng theo kiến trúc monorepo với Next.js (frontend) và NestJS (backend).
 
